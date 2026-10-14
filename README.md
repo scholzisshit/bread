@@ -2,7 +2,7 @@
 > **AI-Powered Personal Health Copilot • Bridging Medical Records to Human Understanding & ABDM Interoperability**
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-team--bread.vercel.app-0D9488?style=for-the-badge&logo=vercel)](https://team-bread.vercel.app)
-[![GitHub Repository](https://img.shields.io/badge/GitHub-scholzisshit%2Fbread-181717?style=for-the-badge&logo=github)](https://github.com/scholzisshit/bread)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-scholzisshit%2Fbread-181717?style=for-the-badge&logo=github)](https://github.com/dat1aryan/team_bread)
 [![Next.js 14](https://img.shields.io/badge/Next.js-14.2-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-3178C6?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
